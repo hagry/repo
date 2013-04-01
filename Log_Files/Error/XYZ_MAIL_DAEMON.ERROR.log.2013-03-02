@@ -1,0 +1,3 @@
+2013-03-02 10:36:08.406 [ERROR] SANDCustomLogger.Class:16 - can't send the attachment file of email: 80
+2013-03-02 12:21:26.953 [ERROR] SANDCustomLogger.Class:16 - can't delete and create new for the attachment file of email: 89 subject: Duplicate by 004 in 009 address: sakl@sandcti.com attachmentfile:  Excel_Files/4e316939-aa30-4372-bbf5-6122f50bfeca.xls
+2013-03-02 12:51:48.796 [ERROR] SANDCustomLogger.Class:16 - can't delete and create new for the attachment file of email: 90 subject: By 006 in 009 address: sakl@sandcti.com attachmentfile:  null

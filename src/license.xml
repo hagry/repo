@@ -1,0 +1,14 @@
+<moonrug>
+    <license
+        product="Moonrug for MS Exchange"
+        expires="never"
+        issued="2011-11-01"
+        company="SoftKinatics"
+        feature="mapi,ews"
+        type="production"
+        contact="hagry@sandcti.com"
+        signature="PJIaSwAe+qGEmfbcxDGaXkks1Aw="
+        units="2000"
+        version="1.2"
+    />
+</moonrug>
